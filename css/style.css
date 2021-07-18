@@ -1,0 +1,31 @@
+
+body{
+    font: 20px arial;
+}
+
+.navbar{
+    background-color: #007A0B;
+}
+
+.quem-somos{
+    background-color: #549756;
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.ideal{
+    background-color:#3062B4;
+    
+}
+
+.siga-nos{
+    background-color: #FFD761 ;
+}
+
+.btg-footer{
+    background-color: black;
+    color: azure;
+}
